@@ -27,10 +27,10 @@ OR Follow these simple steps to run the game on your local machine:
 
 ## The unlocking 
 
-### 1. Basic Mode
-
-- **Controls:** Tilt your phone to move the ball!
-- **How to unlock:** Move the ball to the correct exit
+###  Controls
+Tilt your phone to move the ball!
+###How to unlock:
+Move the ball to the correct exit
 
 ![Failed Unlock](Assets/gameplay/gameplay1.png)
 
