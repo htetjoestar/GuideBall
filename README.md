@@ -10,7 +10,7 @@
 ## Installation
 
 1. Download the APK on any Android device from this link
-[THIS LINK]([https://kaihochak.github.io/clicker](https://drive.google.com/file/d/1Fj-x7-zV8O3n2ztfzucaY4mQzx7htcI2/view?usp=sharing))
+[THIS LINK](https://drive.google.com/file/d/1Fj-x7-zV8O3n2ztfzucaY4mQzx7htcI2/view?usp=sharing)
 2. Install the APK and begin playing!
 
 OR Follow these simple steps to run the game on your local machine:
