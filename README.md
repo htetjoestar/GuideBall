@@ -17,7 +17,7 @@ OR Follow these simple steps to run the game on your local machine:
 
 1. Clone the repository to your computer
 2. Open Unity
-3. Ensure you have Unity
+3. Ensure you have Unity 2022.3.10f1 installed
 4. Click “Open” or “Load Project” in the Unity Hub.
 5. Open your cloned repository
 6. Connect an Android device with developer mode via USB
