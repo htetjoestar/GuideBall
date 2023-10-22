@@ -29,10 +29,12 @@ OR Follow these simple steps to run the game on your local machine:
 
 ###  Controls
 Tilt your phone to move the ball!
-###How to unlock:
+###  How to unlock:
 Move the ball to the correct exit
 
 ![Failed Unlock](Assets/gameplay/gameplay1.png)
+
+![Unlocked](Assets/gameplay/gameplay2.png)
 
 ## Resources:
 Game sprites:
