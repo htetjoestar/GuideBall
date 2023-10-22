@@ -10,11 +10,17 @@ public class accell : MonoBehaviour
 	float moveSpeed = 20f;
 
 	public GameObject text;
+	public GameObject tryAgain;
+
+	public ParticleSystem particle;
 
 	public bool gamestart;
+
+	
 	// Use this for initialization
 	void Start () {
 		rb = GetComponent<Rigidbody2D> ();
+
 		gamestart = false;
 		rb.constraints = RigidbodyConstraints2D.FreezeAll;
 	}
@@ -34,8 +40,21 @@ public class accell : MonoBehaviour
 		}else if(Input.touchCount >= 1){
 			gamestart = true;
 			Object.Destroy(text);
+			tryAgain.SetActive(false);
 		}
 			
 	}
+	public void playSmoke(){
+		var em = particle.emission;
+		var dur = particle.duration;
 
+		em.enabled = true;
+		particle.Play();
+		Invoke(nameof(stopPlaying), dur);
+	}
+
+	void stopPlaying(){
+		var em = particle.emission;
+		em.enabled = false;
+	}
 }

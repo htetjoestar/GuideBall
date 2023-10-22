@@ -20,5 +20,7 @@ public class exitBox : MonoBehaviour
         ball.transform.position = new Vector3(0f,4.5f,0f);
         ball.gamestart = false;
         ball.rb.constraints = RigidbodyConstraints2D.FreezeAll;
+        ball.playSmoke();
+        ball.tryAgain.SetActive(true);
     }
 }
