@@ -1,5 +1,7 @@
 # GuideBall
 
+The guide ball unlocking method introduced innovative concepts like the shake pattern, where users moved the phone in specific patterns, and vocal cues, allowing users to hum a tune for device access. Additional concepts included angle unlock, requiring physical manipulation for access, and the ladder, a gamified unlocking approach. The locking mechanism was refined with a tile-based approach, significantly enhancing security. The user interface received meticulous attention, with a Unity script and illustrations improving visual appeal. This innovative approach revolutionized device interaction and authentication.
+
 ## Contributors
 
 - Kai Ho Chak
